@@ -1,7 +1,7 @@
 # PDI_pluginQGIS
 Projet de Développement Informatique 11
 
-Dans un premier temps il faut télécharger le plugin dans QGIS, pour ce faire, il faut extraire le dossier rva.zip (dans le dossier présentation) via la  Extensions puis Installer depuis un ZIP. \n
+Dans un premier temps il faut télécharger le plugin dans QGIS, pour ce faire, il faut extraire le dossier rva.zip (dans le dossier présentation) via la  Extensions puis Installer depuis un ZIP. "\n"
 Ensuite pour le lancer, il faut cliquer sur la petite icon en forme de prise éléctrique, la plugin s'affichera. 
 Il faudra rentrer une couche de tronçons de route a l'emplacement Couche Route (couches > Troncons_route)
 Et de même pour la couche itinéraires (couches > itinéraires.shp)
