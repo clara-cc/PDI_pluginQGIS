@@ -7,6 +7,6 @@ Il faudra rentrer une couche de tronçons de route a l'emplacement Couche Route 
 Contraintes technique sur ces couches : il faut que ces couches soit vectorielle et possède une même géométrie. La couche des Tronçons de routes doit être découpé en tronçons.  
 On appui alors sur OK.     
 Les itinéraires apparaissent alors sans symbologie. Pour la faire apparaitre il faut importer 3 scripts python (Script_post_plugin > les 3 sont là) en ouvrant la console Python de QGIS et les executer dans l'ordre de votre choix.   
-Pour que l'affichage se fasse il suffit de faire une action telle qu'un zoom ou un simple mouvement sur la carte. Les Itinéraires avec symbologie devront alors apparaitre.
+Pour que l'affichage se fasse il suffit de faire une action telle qu'un zoom ou un simple mouvement sur la carte. Les Itinéraires avec symbologie devront alors apparaitre.  
 Pour ce qui est du déplacement, il suffit alors de placer la petite croix (souris) sur le premier itinéraires, d'effectuer un clic gauche, DE LE MAINTENIR, jusqu'au second itinéraires et de le relâcher. Les itinéraires s'inverseront! N'hésitez pas a zoomer afin de bien sélectionner l'objet.
 Si l'on change d'outils, il est possible de re-activer le plugin en cliquant sur l'icône invisible à la droite du bouton plugin (logo avec la prise electrique), si l'on re-veut déplacer les itinéraires.
