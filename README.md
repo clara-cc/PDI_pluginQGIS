@@ -4,7 +4,7 @@ Projet de Développement Informatique 11
 Dans un premier temps il faut télécharger le plugin dans QGIS, pour ce faire, il faut extraire le dossier rva.zip (dans le dossier présentation) via la  Extensions puis Installer depuis un ZIP.  
 Ensuite pour le lancer, il faut cliquer sur la petite icon en forme de prise éléctrique, la plugin s'affichera.  
 Il faudra rentrer une couche de tronçons de route a l'emplacement Couche Route (couches > Troncons_route) Et de même pour la couche itinéraires (couches > itinéraires.shp).     
-Contraintes technique sur ces couches : il faut que ces couches soit vectorielle et possède une même géométrie. La couche des Tronçons de routes doit être découpé en tronçons.
+Contraintes technique sur ces couches : il faut que ces couches soit vectorielle et possède une même géométrie. La couche des Tronçons de routes doit être découpé en tronçons.  
 On appui alors sur OK.     
 Les itinéraires apparaissent alors sans symbologie. Pour la faire apparaitre il faut importer 3 scripts python (Script_post_plugin > les 3 sont là) en ouvrant la console Python de QGIS et les executer dans l'ordre de votre choix.   
 Pour que l'affichage se fasse il suffit de faire une action telle qu'un zoom ou un simple mouvement sur la carte. Les Itinéraires avec symbologie devront alors apparaitre.
